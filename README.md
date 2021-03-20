@@ -60,7 +60,7 @@ query getCatById {
 
 # Create cat
 mutation createCat {
-  createCat(name: "YOUR_CUT_CAT_NAME") {
+  createCat(name: "YOUR_CUTE_CAT_NAME") {
     id
     name
   }
